@@ -17,12 +17,13 @@ Funcionamiento del programa
   
 ## Opc2 "Predicción usando regresión Lasso cón top 5 variables, sin ingeniería de variables" 
 Del código de python "modelo.ipynb"
-  *Modificar las siguientes 5 variables del inmueble que se desea predecir
-    *GrLivArea=896 #Above grade (ground) living area square feet
-    *OverallQual=5 #Rates the overall material and finish of the house 1-10, 10 Very excellent 
-    *OverallCond=6 #Rates the overall condition of the house 1-10, 10 Very excellent 
-    *GarageCars=1 #Size of garage in car capacity
-    *YearBuilt=1961 #Original construction date
+
+  * Modificar las siguientes 5 variables del inmueble que se desea predecir
+    * GrLivArea=896 #Above grade (ground) living area square feet
+    * OverallQual=5 #Rates the overall material and finish of the house 1-10, 10 Very excellent 
+    * OverallCond=6 #Rates the overall condition of the house 1-10, 10 Very excellent 
+    * GarageCars=1 #Size of garage in car capacity
+    * YearBuilt=1961 #Original construction date
 *Al correr este último modulo de código se obtendra la predicción
 
 
