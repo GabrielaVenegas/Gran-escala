@@ -12,7 +12,7 @@ Funcionamiento del programa
     * El diccionario de variables se encuentra en la carpeta "house-prices-advanced-regression-techniques"
   * Correr hasta la línea "línea_a_predecir" el código python "modelo.ipynb"
   * Modificar el número de línea a predecir, el 0 está reservado al encabezado del archivo ".csv"
-  * Al correr este último modulo de código se obtendra la predicción 
+  * Al correr este módulo de código se obtendra la predicción 
   * RMSE=.118582
   
 ## Opc2 "Predicción usando regresión Lasso cón top 5 variables, sin ingeniería de variables" 
@@ -24,7 +24,7 @@ Del código de python "modelo.ipynb"
     * OverallCond=6 #Rates the overall condition of the house 1-10, 10 Very excellent 
     * GarageCars=1 #Size of garage in car capacity
     * YearBuilt=1961 #Original construction date
-*Al correr este último modulo de código se obtendra la predicción
+* Al correr este último módulo de código se obtendra la predicción
 
 
   
